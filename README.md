@@ -1,7 +1,7 @@
 <img src="./images/catroom.png" height="160" alt="CatRoom" align="right">
 
-# CatRoom
-CatRoom is a Cleanroom+Bukkit+Spigot server software forked from [CatServer](https://github.com/Luohuayu/CatServer).
+# CatRoom-native
+Trying to run CatRoom as graalvm's native image...
 
 This fork is supporting by VoidStudio. We are on [Discord](https://discord.gg/RXUY7nkEKY)!
 
