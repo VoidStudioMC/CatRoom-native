@@ -1,4 +1,4 @@
-rootProject.name = 'CatRoomEF'
+rootProject.name = 'CatRoom-native'
 
 include ':mcp'
 include ':minecraft'
